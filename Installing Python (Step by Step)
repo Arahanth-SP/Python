@@ -1,0 +1,51 @@
+# Installing Python Step By Step: Source Complete Python Bootcamp From Jose Portilla
+
+You can also Refer docs.anaconda.com/anaconda/install/windows
+
+1. There are many ways to run Python!
+2. Later on we'll explore the difference between running a Python .py script or running a Python code in a notebook enviornment
+Either way, we will still want to install Python!
+
+# Installation Lecture:
+1. Install Anaconda Distribution for Python.
+        Anaconda installs Python and an easy to use development enviornment and navigator launch tool
+2. Briefly run Jupyter Notebook
+3. Explore "no install" online options
+
+Quick Note:
+•	There are now many online "no install" Python enviornments that can run in the browser (as long as you have an internet connection)
+•	While not officially part of the course, we will give you a brief tour of these online "no install" options at the end.
+Installation Guide:
+•	To Install Python we will use the free Individual Anaconda distribution.
+
+•	This distribution includes Python as well as many other useful libraries, including Jupyter Notebook environment.
+
+•	Anaconda can also easily be installed on to any major OS, Windows, MacOS, or Linux.
+
+
+Step-1:  To Begin Go to 
+
+https://www.anaconda.com/downloads
+
+ 
+
+Step-2: When you click on Downloads It will take you to Anaconda Installers section
+
+Depending on Windows or MacOS click on Python 3.x latest version
+ 
+
+•	Since I am using Windows click on 64bit graphical installer
+
+Click on 64bit installer
+
+Destination Folder: C:\Users\Arahanth\anaconda3
+
+
+Advanced Options:
+# Add Anaconda3 to my PATH enviornment variable
+# Register Anaconda3 as my default Python 3.9
+# Click on Next
+# Finally, Click on Finish to Install Anaconda Navigation
+
+
+
