@@ -1,0 +1,72 @@
+# Command Line Basics 
+# To Check the Directory
+
+C:\Users\Arahanth>cd
+C:\Users\Arahanth
+
+# To See the List of Directories
+
+C:\Users\Arahanth>Dir
+ Directory of C:\Users\Arahanth
+
+09/25/2022  05:56 AM    <DIR>          .
+09/25/2022  05:56 AM    <DIR>          ..
+09/12/2022  11:00 PM    <DIR>          .ms-ad
+09/28/2022  11:14 PM    <DIR>          .VirtualBox
+09/07/2022  07:54 AM    <DIR>          3D Objects
+09/07/2022  07:54 AM    <DIR>          Contacts
+09/25/2022  07:31 PM    <DIR>          Desktop
+09/27/2022  10:46 AM    <DIR>          Documents
+09/26/2022  11:09 PM    <DIR>          Downloads
+09/07/2022  07:54 AM    <DIR>          Favorites
+09/07/2022  07:54 AM    <DIR>          Links
+09/07/2022  07:54 AM    <DIR>          Music
+09/29/2022  11:03 PM    <DIR>          OneDrive
+09/07/2022  07:54 AM    <DIR>          Pictures
+09/07/2022  07:54 AM    <DIR>          Saved Games
+09/07/2022  07:54 AM    <DIR>          Searches
+09/09/2022  10:41 AM    <DIR>          Videos
+09/06/2022  11:21 PM    <DIR>          VirtualBox VMs
+               0 File(s)              0 bytes
+              18 Dir(s)  88,566,603,776 bytes free
+              
+# To Change the Directory        
+C:\Users\Arahanth>cd Desktop
+C:\Users\Arahanth\Desktop>
+
+# To Move to One Directory Up
+C:\Users\Arahanth\Desktop>cd ..
+C:\Users\Arahanth>
+
+# Press cd and press Tab and you can see the auto completion 
+# To check the directories present in Documents
+
+C:\Users\Arahanth>cd Documents
+C:\Users\Arahanth\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6CF7-F1A5
+
+ Directory of C:\Users\Arahanth\Documents
+
+09/27/2022  10:46 AM    <DIR>          .
+09/27/2022  10:46 AM    <DIR>          ..
+09/27/2022  10:46 AM    <DIR>          Custom Office Templates
+09/27/2022  10:46 AM            64,666 Doc1.docx
+09/24/2022  08:04 PM    <DIR>          Zoom
+               1 File(s)         64,666 bytes
+               4 Dir(s)  88,565,469,184 bytes free
+
+C:\Users\Arahanth\Documents>cd ..
+C:\Users\Arahanth>
+
+# List of Important Commands
+1. cd: current directory
+2. Dir: List of directories
+3. cd ..: To change the directory by one level
+4. cls: To clear the screen
+5 press cd and Tab to autocomplete the commands
+
+
+# To Clear the Screen Use cls commmand
+
+C:\Users\Arahanth>cls
